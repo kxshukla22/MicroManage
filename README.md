@@ -1,6 +1,6 @@
 # MicroManage
-Website Blocker
-#Summary
+
+# Summary
 
 In today’s society, it’s evident how strongly technology has influenced the lives of students. 
 While most of these technological advances have helped further students’ studies, the constant distractions have hindered some.
